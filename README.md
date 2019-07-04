@@ -1,6 +1,6 @@
 ## Welcome to Espanglish World 
 
-![](images/Eiffle%20tower.PNG)
+<img width="405" alt="Eiffle tower" src="https://user-images.githubusercontent.com/52513331/60643841-9f7d9f00-9df1-11e9-94ae-61c388fe5ebe.PNG">
 
 You can use the [editor on GitHub](https://github.com/Luqman24/Espanglish./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
